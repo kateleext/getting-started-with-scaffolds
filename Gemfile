@@ -70,6 +70,7 @@ gem "pundit"
 gem "ransack"
 gem "strip_attributes"
 gem "validate_url"
+gem "draft_generators"
 
 group :development do
   gem "annotaterb"
